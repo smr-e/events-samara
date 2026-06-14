@@ -23,7 +23,7 @@ Vue.createApp({
                     place: 'Набережная Самары',
                     description: 'Живая музыка, вечерняя атмосфера и лучшие городские исполнители.',
                     price: 0,
-                    image: '/images/1.jpg'
+                    image: '../events-samara/images/1.jpg'
                 },
                 {
                     id: 2,
@@ -33,7 +33,7 @@ Vue.createApp({
                     place: 'Самарский художественный музей',
                     description: 'Выставка работ молодых художников и интерактивные зоны.',
                     price: 300,
-                    image: '../images/2.jpg'
+                    image: '../events-samara/images/2.jpg'
                 },
                 {
                     id: 3,
@@ -43,7 +43,7 @@ Vue.createApp({
                     place: 'Парк им. 50-летия Октября',
                     description: 'Кулинарные мастер-классы, дегустации и выступления местных артистов.',
                     price: 500,
-                    image: '../images/3.jpg'
+                    image: '../events-samara/images/3.jpg'
                 },
                 {
                     id: 4,
@@ -53,7 +53,7 @@ Vue.createApp({
                     place: 'Самарский драматический театр',
                     description: 'Классическая трагедия Шекспира в современной интерпретации.',
                     price: 800,
-                    image: '../images/4.jpg'
+                    image: '../events-samara/images/4.jpg'
                 },
                 {
                     id: 5,
@@ -63,7 +63,7 @@ Vue.createApp({
                     place: 'Клуб Attic',
                     description: 'Три локальные рок-группы на одной вечеринке.',
                     price: 600,
-                    image: '../images/5.png'
+                    image: '../events-samara/images/5.png'
                 },
                 {
                     id: 6,
@@ -73,7 +73,7 @@ Vue.createApp({
                     place: 'Центр современной культуры',
                     description: 'Выставка работ современных фотографов из России и Европы.',
                     price: 400,
-                    image: '../images/6.jpg'
+                    image: '../events-samara/images/6.jpg'
                 },
                 {
                     id: 7,
@@ -83,7 +83,7 @@ Vue.createApp({
                     place: 'Набережная Самары',
                     description: 'Открытая концертная программа с участием известных исполнителей.',
                     price: 1200,
-                    image: '../images/7.jpg'
+                    image: '../events-samara/images/7.jpg'
                 },
                 {
                     id: 8,
@@ -93,7 +93,7 @@ Vue.createApp({
                     place: 'Самарский драматический театр',
                     description: 'Пьеса Чехова в постановке известного режиссёра.',
                     price: 700,
-                    image: '../images/8.jpg'
+                    image: '../events-samara/images/8.jpg'
                 },
                 {
                     id: 9,
@@ -103,7 +103,7 @@ Vue.createApp({
                     place: 'Кровосток',
                     description: 'Незабываемый вечер джаза с лучшими музыкантами города.',
                     price: 900,
-                    image: '../images/99.jpg'
+                    image: '../events-samara/images/99.jpg'
                 },
                 {
                     id: 10,
@@ -113,7 +113,7 @@ Vue.createApp({
                     place: 'Самарский художественный музей',
                     description: 'Выставка скульптурных работ современных авторов.',
                     price: 350,
-                    image: '../images/10.jpg'
+                    image: '../events-samara/images/10.jpg'
                 },
                 {
                     id: 11,
@@ -123,7 +123,7 @@ Vue.createApp({
                     place: 'Библиотека им. Горького',
                     description: 'Чтения, встречи с авторами и продажа книг.',
                     price: 200,
-                    image: '../images/11.jpg'
+                    image: '../events-samara/images/11.jpg'
                 },
                 {
                     id: 12,
@@ -133,7 +133,7 @@ Vue.createApp({
                     place: 'Театр юного зрителя',
                     description: 'Спектакль по пьесе Ібсена для молодой аудитории.',
                     price: 450,
-                    image: '../images/12.png'
+                    image: '../events-samara/images/12.png'
                 },
                 {
                     id: 13,
@@ -143,7 +143,7 @@ Vue.createApp({
                     place: 'Набережная Самары',
                     description: 'Концерт поп-музыки с участием известных исполнителей.',
                     price: 1500,
-                    image: '../images/13.jpg'
+                    image: '../events-samara/images/13.jpg'
                 },
                 {
                     id: 14,
@@ -153,7 +153,7 @@ Vue.createApp({
                     place: 'Центр современной культуры',
                     description: 'Выставка работ в стиле абстракционизма.',
                     price: 400,
-                    image: '../images/14.jpg'
+                    image: '../events-samara/images/14.jpg'
                 },
                 {
                     id: 15,
@@ -163,7 +163,7 @@ Vue.createApp({
                     place: 'Парк им. 50-летия Октября',
                     description: 'Стёйки с едой из разных стран мира.',
                     price: 300,
-                    image: '../images/15.jpg'
+                    image: '../events-samara/images/15.jpg'
                 },
                 {
                     id: 16,
@@ -173,7 +173,7 @@ Vue.createApp({
                     place: 'Самарский драматический театр',
                     description: 'Спектакль по роману Булгакова.',
                     price: 850,
-                    image: '../images/16.jpg'
+                    image: '../events-samara/images/16.jpg'
                 },
                 {
                     id: 17,
@@ -183,7 +183,7 @@ Vue.createApp({
                     place: 'Клуб Attic',
                     description: 'Вечер электронной музыки с dj-set.',
                     price: 700,
-                    image: '../images/17.jpg'
+                    image: '../events-samara/images/17.jpg'
                 },
                 {
                     id: 18,
@@ -193,7 +193,7 @@ Vue.createApp({
                     place: 'Самарский художественный музей',
                     description: 'Выставка экспериментальных работ молодых художников.',
                     price: 350,
-                    image: '../images/18.jpg'
+                    image: '../events-samara/images/18.jpg'
                 }
             ]
         }
